@@ -23,8 +23,7 @@ Veja abaixo como o **Shopping Via Mobile** aparece em diferentes dispositivos.
 
 ### 💻📱 Tela de Computador e Celular
 
-
-
+<img src="https://github.com/Ricardo-Sanchess/Shopping-Movel/blob/main/assets/Grey%20Black%20Modern%20Digital%20Product%20%20Mockup%20Shadow%20Instagram%20Post.png?raw=true" width="500px" height="500"><img/>
 
 ## 📦 Como Rodar o Projeto
 
